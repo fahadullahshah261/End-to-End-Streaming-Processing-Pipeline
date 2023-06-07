@@ -1,21 +1,21 @@
 # End-to-End-Streaming-Processing-Pipeline
 This repository includes the implementation of an end-to-end stream processing pipeline that comprises of the following: 
 
-Real-Time Data Source (Wikipedia)
+### Real-Time Data Source (Wikipedia)
 
-Kafka Source Connector
+### Kafka Source Connector
 
-Apache Kafka
+### Apache Kafka
 
-Confluent Control Center
+### Confluent Control Center
 
-ksqlDB and Kafka Streams 
+### ksqlDB and Kafka Streams 
 
-Sink connector
+### Sink connector
 
-ElasticSearch
+### ElasticSearch
 
-Kibana
+### Kibana
 
 
 
